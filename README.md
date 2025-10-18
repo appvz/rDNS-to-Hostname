@@ -22,7 +22,7 @@ cat /etc/hostname
 
 Important notes:
 
-Script only works if your IP has a PTR record (rDNS)
-Some cloud providers require PTR record configuration in their control panel
-Ensure the rDNS returns a valid domain name for hostname purposes
+Script only works if your IP has a PTR record (rDNS).
+Some cloud providers require PTR record configuration in their control panel.
+Ensure the rDNS returns a valid domain name for hostname purposes.
 
